@@ -6,7 +6,6 @@ genero
 espejo albumes
 espejo playlist
 playlist
-logs
 reproducciones
 
 /*
